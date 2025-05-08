@@ -1,0 +1,32 @@
+2025-05-05 19:06:36,033 - eduinsight - INFO - EduInsight logging system initialized
+2025-05-05 19:06:36,034 - eduinsight - INFO - Starting EduInsight application
+2025-05-05 19:06:36,989 - eduinsight - INFO - Language selected: en
+2025-05-05 19:06:36,991 - eduinsight - INFO - Selected analysis: School Comparison
+2025-05-05 19:06:36,992 - eduinsight - INFO - Starting data loading process
+2025-05-05 19:06:37,012 - eduinsight - INFO - Successfully loaded logo from: .\assets\logo.png
+2025-05-05 19:06:52,077 - eduinsight - INFO - EduInsight logging system initialized
+2025-05-05 19:06:52,077 - eduinsight - INFO - EduInsight logging system initialized
+2025-05-05 19:06:52,081 - eduinsight - INFO - Starting EduInsight application
+2025-05-05 19:06:52,081 - eduinsight - INFO - Starting EduInsight application
+2025-05-05 19:06:52,088 - eduinsight - INFO - Language selected: en
+2025-05-05 19:06:52,088 - eduinsight - INFO - Language selected: en
+2025-05-05 19:06:52,095 - eduinsight - INFO - Selected analysis: School Comparison
+2025-05-05 19:06:52,095 - eduinsight - INFO - Selected analysis: School Comparison
+2025-05-05 19:06:52,099 - eduinsight - INFO - Starting data loading process
+2025-05-05 19:06:52,099 - eduinsight - INFO - Starting data loading process
+2025-05-05 19:06:52,101 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-05-05 19:06:52,101 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-05-05 19:06:52,635 - eduinsight - INFO - Using single sheet: Sheet1
+2025-05-05 19:06:52,635 - eduinsight - INFO - Using single sheet: Sheet1
+2025-05-05 19:06:52,947 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-05-05 19:06:52,947 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-05-05 19:06:52,952 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-05-05 19:06:52,952 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-05-05 19:06:52,952 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-05-05 19:06:52,952 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-05-05 19:06:55,852 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-05-05 19:06:55,852 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-05-05 19:06:55,852 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-05-05 19:06:55,852 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-05-05 19:06:55,857 - eduinsight - INFO - Successfully loaded logo from: .\assets\logo.png
+2025-05-05 19:06:55,857 - eduinsight - INFO - Successfully loaded logo from: .\assets\logo.png

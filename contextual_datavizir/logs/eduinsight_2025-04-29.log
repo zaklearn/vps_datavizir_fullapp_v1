@@ -1,0 +1,882 @@
+2025-04-29 17:57:43,296 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:57:43,296 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:57:44,477 - eduinsight - INFO - Language selected: en
+2025-04-29 17:57:44,477 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:57:44,477 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:57:44,499 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:57:48,440 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:57:48,440 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:57:48,440 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:57:48,440 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:57:48,440 - eduinsight - INFO - Language selected: fr
+2025-04-29 17:57:48,440 - eduinsight - INFO - Language selected: fr
+2025-04-29 17:57:48,440 - eduinsight - INFO - Selected analysis: Comparaison entre Écoles
+2025-04-29 17:57:48,440 - eduinsight - INFO - Selected analysis: Comparaison entre Écoles
+2025-04-29 17:57:48,440 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:57:48,440 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:57:48,456 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:57:48,456 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:57:51,006 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:57:51,006 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:57:51,006 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:57:51,013 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:57:51,013 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:57:51,013 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:57:51,013 - eduinsight - INFO - Language selected: en
+2025-04-29 17:57:51,013 - eduinsight - INFO - Language selected: en
+2025-04-29 17:57:51,013 - eduinsight - INFO - Language selected: en
+2025-04-29 17:57:51,013 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:57:51,013 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:57:51,013 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:57:51,013 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:57:51,013 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:57:51,013 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:57:51,028 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:57:51,028 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:57:51,028 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:58:00,090 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:58:00,090 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:58:00,090 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:58:00,090 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 17:58:00,100 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:58:00,100 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:58:00,100 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:58:00,100 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 17:58:00,110 - eduinsight - INFO - Language selected: en
+2025-04-29 17:58:00,110 - eduinsight - INFO - Language selected: en
+2025-04-29 17:58:00,110 - eduinsight - INFO - Language selected: en
+2025-04-29 17:58:00,110 - eduinsight - INFO - Language selected: en
+2025-04-29 17:58:00,117 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:58:00,117 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:58:00,117 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:58:00,117 - eduinsight - INFO - Selected analysis: School Comparison
+2025-04-29 17:58:00,120 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:58:00,120 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:58:00,120 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:58:00,120 - eduinsight - INFO - Starting data loading process
+2025-04-29 17:58:00,125 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 17:58:00,125 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 17:58:00,125 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 17:58:00,125 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 17:58:00,758 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 17:58:00,758 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 17:58:00,758 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 17:58:00,758 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 17:58:01,127 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 17:58:01,127 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 17:58:01,127 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 17:58:01,127 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:01,139 - eduinsight.school_comparison - INFO - Starting School Comparison analysis
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,402 - eduinsight.school_comparison - INFO - Completed School Comparison analysis successfully
+2025-04-29 17:58:04,410 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:58:04,410 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:58:04,410 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 17:58:04,410 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:03:56,049 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:03:56,049 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:03:56,049 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:03:56,049 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:03:56,049 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:03:56,065 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:03:56,065 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:03:56,065 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:03:56,065 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:03:56,065 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:03:56,065 - eduinsight - INFO - Language selected: en
+2025-04-29 18:03:56,065 - eduinsight - INFO - Language selected: en
+2025-04-29 18:03:56,065 - eduinsight - INFO - Language selected: en
+2025-04-29 18:03:56,065 - eduinsight - INFO - Language selected: en
+2025-04-29 18:03:56,065 - eduinsight - INFO - Language selected: en
+2025-04-29 18:03:56,080 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:03:56,080 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:03:56,080 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:03:56,080 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:03:56,080 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:03:56,087 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:03:56,087 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:03:56,087 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:03:56,087 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:03:56,087 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:03:56,087 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:03:56,087 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:03:56,087 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:03:56,087 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:03:56,087 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:03:56,118 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:03:56,118 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:03:56,118 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:03:56,118 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:03:56,118 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:03:56,434 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:03:56,434 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:03:56,434 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:03:56,434 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:03:56,434 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:03:56,450 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,353 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:00,384 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:00,384 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:00,384 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:00,384 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:00,384 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:33,119 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:33,119 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:33,119 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:33,119 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:33,119 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:33,119 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:33,142 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:33,142 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:33,142 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:33,142 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:33,142 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:33,142 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:33,142 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:33,142 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:33,142 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:33,142 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:33,142 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:33,142 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:33,157 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:33,157 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:33,157 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:33,157 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:33,157 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:33,157 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:33,157 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:33,157 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:33,157 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:33,157 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:33,157 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:33,157 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:33,157 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:33,157 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:33,157 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:33,157 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:33,157 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:33,157 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:33,188 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:33,188 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:33,188 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:33,188 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:33,188 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:33,188 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:33,541 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:33,541 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:33,541 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:33,541 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:33,541 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:33,541 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:33,548 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,691 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:34,707 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:34,707 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:34,707 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:34,707 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:34,707 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:34,707 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,326 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,342 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,364 - eduinsight - INFO - Language selected: en
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Selected analysis: Contextual Factors
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,380 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,395 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:36,426 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,036 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:37,128 - eduinsight.contextual_factors - INFO - Starting Contextual Factors analysis
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,428 - eduinsight.contextual_factors - INFO - Completed Contextual Factors analysis successfully
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:04:38,442 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,071 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,089 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,111 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,119 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,139 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,171 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,493 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:37,546 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,926 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:05:38,948 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,068 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,084 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,099 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,135 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,149 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,150 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,181 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,469 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:24,500 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,016 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,039 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,070 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,117 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,161 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,203 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,301 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,754 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:25,769 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,301 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,310 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,326 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,339 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,355 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,386 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,687 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:26,702 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,573 - eduinsight - INFO - EduInsight logging system initialized
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,589 - eduinsight - INFO - Starting EduInsight application
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,604 - eduinsight - INFO - Language selected: en
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Selected analysis: SES & Home Support Impact
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,620 - eduinsight - INFO - Starting data loading process
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,642 - eduinsight - INFO - File uploaded: EGRA EGMA - DATA ANONYMOUS.xlsx
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,673 - eduinsight - INFO - Using single sheet: Sheet1
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,905 - eduinsight - INFO - Successfully loaded file with 482 rows and 32 columns
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:27,923 - eduinsight.ses_analysis - INFO - Starting SES & Home Support Impact analysis
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,404 - eduinsight.ses_analysis - INFO - Completed SES & Home Support Impact analysis successfully
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png
+2025-04-29 18:06:29,426 - eduinsight - INFO - Successfully loaded logo from: D:\DATAVIZIR-OFFICIEL-TOOLS\Education sector\DATAVIZIR_CENTRAL_APP\EduInsight_v1.0.0\assets\logo.png

@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+plotly
+scipy
+python-docx
+openpyxl
+
+# For Plotly export
+kaleido
+
+# For date handling
+python-dateutil
+
+# For type hints (if using Python < 3.9)
+typing-extensions

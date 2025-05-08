@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+python-docx
+openpyxl
+xlsxwriter
+statsmodels
+kaleido
+transformers
+torch
+python-dotenv
+anthropic
