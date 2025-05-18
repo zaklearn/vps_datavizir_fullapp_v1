@@ -8,6 +8,12 @@ All rights reserved.
 
 ---
 
+## About EduInsight
+
+**EduInsight** is a proprietary application and a core component of the **DataVizir** platform — a suite of advanced data analytics and visualization tools developed and owned by **HBN Consulting Ltd**.
+
+---
+
 ## License Grant
 
 This software and associated documentation files (the "Software") are proprietary intellectual property of **HBN Consulting Ltd**, a company registered in England and Wales.
@@ -31,7 +37,7 @@ You may **not**:
 
 ## Ownership & Intellectual Property
 
-All code, documentation, design, features, modules, and outputs of EduInsight are the sole intellectual property of **HBN Consulting Ltd**. The Software is protected by UK and international copyright laws, trade secrets, and intellectual property treaties.
+All code, documentation, design, features, modules, and outputs of EduInsight — and the broader **DataVizir** platform — are the sole intellectual property of **HBN Consulting Ltd**. The Software is protected by UK and international copyright laws, trade secrets, and intellectual property treaties.
 
 No part of this Software may be copied, published, or used outside the scope of the original license agreement without prior written consent from HBN Consulting Ltd.
 
@@ -53,9 +59,9 @@ Company Type: **Private Limited Company**
 
 ---
 
-## Trademark
+## Trademarks
 
-"EduInsight" and all associated logos, names, and design elements are trademarks or registered trademarks of HBN Consulting Ltd in the United Kingdom and other countries.
+"EduInsight", "DataVizir", and all associated logos, names, and design elements are trademarks or registered trademarks of **HBN Consulting Ltd** in the United Kingdom and other countries.
 
 ---
 
