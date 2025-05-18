@@ -228,16 +228,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## Legal Contact
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+For licensing requests, questions about permitted usage, or to report unauthorized use:
 
-## Acknowledgments
+📧 legal@hbnconsulting.co.uk  
+🌐 https://www.hbnconsulting.co.uk
 
-- Developed for educational assessment professionals worldwide
-- Built with Streamlit, Pandas, Plotly, and Python-docx
-- Inspired by global best practices in early grade assessment
+---
 
-## Contact
+## Disclaimer
 
-For questions, feedback, or support, please contact [your-email@example.com](mailto:your-email@example.com)
+The Software is provided "as is", without warranty of any kind, express or implied. HBN Consulting Ltd shall not be held liable for any direct, indirect, or consequential damages resulting from the use or inability to use the Software.
+
+---
+
